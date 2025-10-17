@@ -1,0 +1,7 @@
+/* Variables CSS */
+:root{
+  --primary-blue:#1E3A8A;--secondary-orange:#F97316;--accent-gold:#D4AF37;--light-bg:#F8FAFC;--text-dark:#1F2937;--text-gray:#6B7280;--white:#FFFFFF;--shadow:0 4px 6px -1px rgba(0,0,0,0.1);--shadow-lg:0 10px 15px -3px rgba(0,0,0,0.1)
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter','Segoe UI',Tahoma,Geneva,Verdana,sans-serif;line-height:1.6;color:var(--text-dark);background-color:var(--light-bg)}
+/* ... full CSS from presentation pasted earlier ... */
